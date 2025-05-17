@@ -1,0 +1,79 @@
+11/02/23 17:15
+
+SyntaxError while loading 'lstsq_eigs.py': invalid syntax (lstsq_eigs.py, line 177)
+
+-------------------------------------------------------------------------------
+
+11/02/23 17:37
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+The degrees labeled don't match the plots. Also, your degree 3 plot isn't 3rd degree; it's only 2nd degree. Make sure to add 1 to the parameter to np.vander to account for the constant column
+Score += 5
+
+Problem 4 (10 points):
+Nothing was shown
+Score += 0
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Traceback (most recent call last):
+  File "base_test_driver.py", line 436, in test_all
+    points = func(student_module)
+  File "test_driver.py", line 133, in problem6
+    points = _test(4) + _test(5)
+  File "base_test_driver.py", line 196, in wrapper
+    return func(*args, **kwargs)
+  File "test_driver.py", line 129, in _test
+    stueigs = np.sort(s.qr_algorithm(A, 200, 1e-16))
+  File "<__array_function__ internals>", line 200, in sort
+  File "fromnumeric.py", line 1030, in sort
+    a.sort(axis=axis, kind=kind, order=order)
+numpy.AxisError: axis -1 is out of bounds for array of dimension 0
+
+
+Code Quality (5 points):
+I had to fix your code to get it to run on the grading computer (syntax error on line 177)
+No unit test implemented
+Score += 0
+
+Total score: 20/50 = 40.0%
+
+-------------------------------------------------------------------------------
+
+11/07/23 09:43
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
