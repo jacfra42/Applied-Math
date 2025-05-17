@@ -1,0 +1,181 @@
+10/30/23 17:17
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Traceback (most recent call last):
+  File "base_test_driver.py", line 436, in test_all
+    points = func(student_module)
+  File "test_driver.py", line 116, in problem3
+    points = sum(_test(c) for c in [check1,check2,check3,check4,check5])
+  File "test_driver.py", line 116, in <genexpr>
+    points = sum(_test(c) for c in [check1,check2,check3,check4,check5])
+  File "test_driver.py", line 101, in _test
+    stutree.insert(entry)
+  File "nearest_neighbor.py", line 127, in insert
+    find_parent(self.root)
+  File "nearest_neighbor.py", line 95, in find_parent
+    if new.value == current.value:
+ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+
+
+Problem 4 (10 points):
+Traceback (most recent call last):
+  File "base_test_driver.py", line 436, in test_all
+    points = func(student_module)
+  File "test_driver.py", line 129, in problem4
+    points = sum(self.neighbor(m, k, _student_nn)
+  File "test_driver.py", line 129, in <genexpr>
+    points = sum(self.neighbor(m, k, _student_nn)
+  File "test_driver.py", line 59, in neighbor
+    spoint, sdist = func(X, y)
+  File "test_driver.py", line 126, in _student_nn
+    tree.insert(x)
+  File "nearest_neighbor.py", line 127, in insert
+    find_parent(self.root)
+  File "nearest_neighbor.py", line 95, in find_parent
+    if new.value == current.value:
+ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+
+
+Problem 5 (10 points):
+Traceback (most recent call last):
+  File "base_test_driver.py", line 436, in test_all
+    points = func(student_module)
+  File "test_driver.py", line 142, in problem5
+    elif isinstance(s.KNeighborsClassifier(n_neighbors=1), skNC):
+TypeError: KNeighborsClassifier() takes no arguments
+
+
+Problem 6 (5 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+incomplete
+incomplete
+Score += 0
+
+Total score: 10/50 = 20.0%
+
+-------------------------------------------------------------------------------
+
+11/01/23 14:33
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
+11/02/23 11:46
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
+11/02/23 11:48
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
+11/02/23 11:54
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
