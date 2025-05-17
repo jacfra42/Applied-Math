@@ -1,0 +1,67 @@
+10/05/23 18:18
+
+Problem 1 (10 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 2 (15 points):
+NotImplementedError: Problem 2 Incomplete
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+Code can be improved for solar_system()
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+10/15/23 00:14
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+Make sure to comment your code
+Score += 3
+
+Total score: 28/50 = 56.0%
+
+-------------------------------------------------------------------------------
+
+10/17/23 11:18
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

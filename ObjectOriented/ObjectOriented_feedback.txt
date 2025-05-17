@@ -1,0 +1,42 @@
+09/21/23 18:24
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+TypeError: '>' not supported between instances of 'int' and 'list'
+
+Problem 3 (10 points):
+TypeError: unsupported operand type(s) for &: 'str' and 'str'
+
+Problem 4 (15 points):
+AttributeError: module 'JacobFrancis.ObjectOriented.object_oriented' has no attribute 'ComplexNumber'
+
+Code Quality (5 points):
+AttributeError: module 'JacobFrancis.ObjectOriented.object_oriented' has no attribute 'ComplexNumber'
+
+Total score: 10/50 = 20.0%
+
+-------------------------------------------------------------------------------
+
+09/26/23 09:21
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+TypeError: '>' not supported between instances of 'int' and 'list'
+
+Problem 3 (10 points):
+TypeError: unsupported operand type(s) for &: 'str' and 'str'
+
+Problem 4 (15 points):
+TypeError: ComplexNumber.conjugate() missing 2 required positional arguments: 'real' and 'imag'
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 15/50 = 30.0%
+
+-------------------------------------------------------------------------------
+
