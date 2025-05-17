@@ -1,0 +1,90 @@
+11/13/23 17:05
+
+Problem 1 (5 points):
+MarkovChain() failed to raise a ValueError (got a NotImplementedError instead)
+NotImplementedError: Problem 1 Incomplete
+
+Problem 2 (5 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 3 (10 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problems 5-6 (15 points):
+NotImplementedError: Problem 5 Incomplete
+
+Code Quality (5 points):
+incomplete
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+11/15/23 22:49
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+MarkovChain.walk() failed: incorrect length
+	Correct response: 5
+	Student response: 6
+MarkovChain.walk() failed: incorrect length
+	Correct response: 5
+	Student response: 6
+MarkovChain.walk() failed: incorrect length
+	Correct response: 5
+	Student response: 6
+MarkovChain.walk() failed: incorrect length
+	Correct response: 5
+	Student response: 6
+Score += 6
+
+Problem 4 (10 points):
+MarkovChain.steady_state() failed to raise a ValueError (no Exception raised)
+Score += 8
+
+Problems 5-6 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 44/50 = 88.0%
+
+-------------------------------------------------------------------------------
+
+11/16/23 09:35
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+MarkovChain.steady_state() failed to raise a ValueError (no Exception raised)
+Score += 8
+
+Problems 5-6 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 48/50 = 96.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
