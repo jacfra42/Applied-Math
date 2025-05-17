@@ -1,0 +1,50 @@
+09/28/23 18:01
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (25 points):
+ContentFilter.uniform('_OUT_', mode='z') failed to raise a ValueError (no Exception raised)
+ContentFilter.reverse('_OUT_', mode='z') failed to raise a ValueError (no Exception raised)
+ContentFilter.transpose('_OUT_', mode='z') failed to raise a ValueError (no Exception raised)
+ContentFilter.uniform() failed to raise a ValueError (no Exception raised)
+ContentFilter.reverse() failed to raise a ValueError (no Exception raised)
+FileNotFoundError: [Errno 2] No such file or directory: '_OUT_'
+
+Code Quality (5 points):
+Code can be improved for ContentFilter.transpose()
+Score += 0
+
+Total score: 20/50 = 40.0%
+
+-------------------------------------------------------------------------------
+
+10/04/23 00:43
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (25 points):
+ContentFilter.uniform('_OUT_', mode='z') failed to raise a ValueError (got an AttributeError instead)
+AttributeError: 'str' object has no attribute 'write'
+
+Code Quality (5 points):
+Code can be improved for ContentFilter.reverse()
+Score += 4
+
+Total score: 24/50 = 48.0%
+
+-------------------------------------------------------------------------------
+
